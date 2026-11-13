@@ -4,16 +4,12 @@ Project: ClassWall
 
 A simple PHP and PostgreSQL message board where users can post messages, search messages, remember their names using cookies, and track visits using sessions.
 
-Technologies Used
+Technologies Used:
 
 PHP
-
 PostgreSQL
-
 XAMPP
-
 pgAdmin 4
-
 HTML 
 
 Activity Questions
