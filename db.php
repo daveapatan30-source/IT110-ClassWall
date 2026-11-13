@@ -4,7 +4,7 @@ $host = 'localhost';
 $port = '5432';
 $dbname = 'classwall';
 $username = 'postgres';
-$password = 'YOUR_POSTGRES_PASSWORD'; // Change this to your PostgreSQL password
+$password = 'password gehapon';
 
 $dsn = "pgsql:host=$host;port=$port;dbname=$dbname";
 
